@@ -1,4 +1,5 @@
 {
+  "homepage": "https://yeonwoo2017.github.io/ReactProject/",
   "name": "management",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +20,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://yeonwoo2017.github.io/ReactProject/",
+  
   "eslintConfig": {
     "extends": [
       "react-app",
